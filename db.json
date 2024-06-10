@@ -18,7 +18,7 @@
         "features": {
           "bedrooms": 3,
           "bathrooms": 2,
-          "area": "300 Sq Feet",
+          "area": "300",
           "parking_spaces": 3
         },
         "images": [
@@ -32,7 +32,153 @@
       "contact_us": {
         "phone": "800 123-456",
         "email": "hi@website.com",
-        "hours": "Monday to Friday 9am-5pm"
+        "days": "Monday to Friday",
+        "hours":"9am-5pm"
+      }
+    },
+    {
+      "id": 2,
+      "location": "San Francisco",
+      "title": "Modern One Floor Duplex House",
+      "details": {
+        "description": "Gorgeous 2 story 5 bdrm. 3.5 bath home situated on 1/2 acre wooded lot. Home boasts Expansive open concept formal Living & Dining rooms with abundant light, spacious Breakfast Area and Executive study. Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets.",
+        "living_room": "All rooms have a super efficient air conditioner unit that reduces the electricity bill by 50% on summer and 70% on winter. The thermostat can be regulated individually or all the thermostat at the same time.",
+        "kitchen": "Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets. The house also includes a brand new Solar Panel System, that provides the 35% of the electricity required for the house operation.",
+        "credit_options": "Estate style drive leading to a 3 car detached/full porte-cochere garage and fenced backyard."
+      },
+      "property": {
+        "type": "office",
+        "status": "for rent",
+        "price": "$420,000",
+        "address": "Rodeo Drive, 325",
+        "features": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": "300",
+          "parking_spaces": 3
+        },
+        "images": [
+          "images/property3_1.jpg",
+          "images/property3_2.jpg",
+          "images/property3_3.jpg",
+          "images/property3_4.jpg",
+          "images/property3_5.jpg"
+        ]
+      },
+      "contact_us": {
+        "phone": "800 123-456",
+        "email": "hi@website.com",
+        "days": "Monday to Friday",
+        "hours":"9am-5pm"
+      }
+    },
+    {
+      "id": 3,
+      "location": "San Francisco",
+      "title": "Remodeled With Big Garden Near Downtown",
+      "details": {
+        "description": "Gorgeous 2 story 5 bdrm. 3.5 bath home situated on 1/2 acre wooded lot. Home boasts Expansive open concept formal Living & Dining rooms with abundant light, spacious Breakfast Area and Executive study. Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets.",
+        "living_room": "All rooms have a super efficient air conditioner unit that reduces the electricity bill by 50% on summer and 70% on winter. The thermostat can be regulated individually or all the thermostat at the same time.",
+        "kitchen": "Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets. The house also includes a brand new Solar Panel System, that provides the 35% of the electricity required for the house operation.",
+        "credit_options": "Estate style drive leading to a 3 car detached/full porte-cochere garage and fenced backyard."
+      },
+      "property": {
+        "type": "house",
+        "status": "for sale",
+        "price": "$290,000",
+        "address": "Rodeo Drive, 325",
+        "features": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": "300",
+          "parking_spaces": 3
+        },
+        "images": [
+          "images/property2_1.jpg",
+          "images/property2_2.jpg",
+          "images/property2_3.jpg",
+          "images/property2_4.jpg"
+        ]
+      },
+      "contact_us": {
+        "phone": "800 123-456",
+        "email": "hi@website.com",
+        "days": "Monday to Friday",
+        "hours":"9am-5pm"
+      }
+    },
+    {
+      "id": 4,
+      "location": "San Francisco",
+      "title": "Near The Beach Small House, San Diego",
+      "details": {
+        "description": "Gorgeous 2 story 5 bdrm. 3.5 bath home situated on 1/2 acre wooded lot. Home boasts Expansive open concept formal Living & Dining rooms with abundant light, spacious Breakfast Area and Executive study. Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets.",
+        "living_room": "All rooms have a super efficient air conditioner unit that reduces the electricity bill by 50% on summer and 70% on winter. The thermostat can be regulated individually or all the thermostat at the same time.",
+        "kitchen": "Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets. The house also includes a brand new Solar Panel System, that provides the 35% of the electricity required for the house operation.",
+        "credit_options": "Estate style drive leading to a 3 car detached/full porte-cochere garage and fenced backyard."
+      },
+      "property": {
+        "type": "house",
+        "status": "for rent",
+        "price": "$370,000",
+        "address": "Rodeo Drive, 325",
+        "features": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": "300",
+          "parking_spaces": 3
+        },
+        "images": [
+          "images/property4_1.jpg",
+          "images/property4_2.jpg",
+          "images/property4_3.jpg",
+          "images/property4_4.jpg",
+          "images/property4_5.jpg",
+          "images/property4_6.jpg"
+        ]
+      },
+      "contact_us": {
+        "phone": "800 123-456",
+        "email": "hi@website.com",
+        "days": "Monday to Friday",
+        "hours":"9am-5pm"
+      }
+    },
+    {
+      "id": 5,
+      "location": "San Francisco",
+      "title": "Beautiful Two Stories House",
+      "details": {
+        "description": "Gorgeous 2 story 5 bdrm. 3.5 bath home situated on 1/2 acre wooded lot. Home boasts Expansive open concept formal Living & Dining rooms with abundant light, spacious Breakfast Area and Executive study. Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets.",
+        "living_room": "All rooms have a super efficient air conditioner unit that reduces the electricity bill by 50% on summer and 70% on winter. The thermostat can be regulated individually or all the thermostat at the same time.",
+        "kitchen": "Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets. The house also includes a brand new Solar Panel System, that provides the 35% of the electricity required for the house operation.",
+        "credit_options": "Estate style drive leading to a 3 car detached/full porte-cochere garage and fenced backyard."
+      },
+      "property": {
+        "type": "duplex",
+        "status": "for sale",
+        "price": "$300,000",
+        "address": "Rodeo Drive, 325",
+        "features": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": "300",
+          "parking_spaces": 3
+        },
+        "images": [
+          "images/property5_1.jpg",
+          "images/property5_2.jpg",
+          "images/property5_3.jpg",
+          "images/property5_4.jpg",
+          "images/property5_5.jpg",
+          "images/property5_6.jpg"
+        ]
+      },
+      "contact_us": {
+        "phone": "800 123-456",
+        "email": "hi@website.com",
+        "days": "Monday to Friday",
+        "hours":"9am-5pm"
       }
     }
   ]
