@@ -1,0 +1,39 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "location": "San Francisco",
+      "title": "Comfortable Apartment With Great View",
+      "details": {
+        "description": "Gorgeous 2 story 5 bdrm. 3.5 bath home situated on 1/2 acre wooded lot. Home boasts Expansive open concept formal Living & Dining rooms with abundant light, spacious Breakfast Area and Executive study. Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets.",
+        "living_room": "All rooms have a super efficient air conditioner unit that reduces the electricity bill by 50% on summer and 70% on winter. The thermostat can be regulated individually or all the thermostat at the same time.",
+        "kitchen": "Island kitchen w/granite counters and granite breakfast bar. Master bedroom w/sitting area, double vanities, luxurious soak tub, walk in shower and expansive walk in closets. The house also includes a brand new Solar Panel System, that provides the 35% of the electricity required for the house operation.",
+        "credit_options": "Estate style drive leading to a 3 car detached/full porte-cochere garage and fenced backyard."
+      },
+      "property": {
+        "type": "apartment",
+        "status": "for sale",
+        "price": "$330,000",
+        "address": "Rodeo Drive, 325",
+        "features": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": "300 Sq Feet",
+          "parking_spaces": 3
+        },
+        "images": [
+          "images/property1_1.jpg",
+          "images/property1_2.jpg",
+          "images/property1_3.jpg",
+          "images/property1_4.jpg",
+          "images/property1_5.jpg"
+        ]
+      },
+      "contact_us": {
+        "phone": "800 123-456",
+        "email": "hi@website.com",
+        "hours": "Monday to Friday 9am-5pm"
+      }
+    }
+  ]
+}
