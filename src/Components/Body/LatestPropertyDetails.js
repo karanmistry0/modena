@@ -13,8 +13,8 @@ function LatestPropertyDetails({ propertyDetails ,onSelectProperty}) {
   return (
     <div className="relative border-[1px] rounded-sm">
       <div className={cssClasses}>
-        {/* {propertyDetails.property.status} */}
-        <p>For Sale</p>
+        {propertyDetails.property.status}
+        
       </div>
       <img
         src={propertyDetails.property.images[0]}
