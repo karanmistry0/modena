@@ -13,7 +13,7 @@ function MainBody() {
   const [propertyId, setPropertyId] = useState("1");
 
   useEffect(() => {
-    fetch("http://localhost:5000/properties")
+    fetch("https://json-server-vercel-nine-drab.vercel.app/properties")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Network response was not ok");
