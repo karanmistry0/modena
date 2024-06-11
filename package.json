@@ -13,11 +13,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "concurrently \"react-scripts start\" \"vercel dev\"",
+    "start": "concurrently \"react-scripts start\" \"json-server --watch db.json --port 5000\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "server": "vercel dev"
+    "eject": "react-scripts eject"
+ 
   },
   "eslintConfig": {
     "extends": [
